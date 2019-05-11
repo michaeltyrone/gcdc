@@ -1,0 +1,5 @@
+ip addressing 
+subnet mask
+bits
+borrow
+:
